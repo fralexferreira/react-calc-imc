@@ -5,7 +5,7 @@ fazendo calculadora de IMC
 
 ### Instalação
 
-- `npm start`
+- `npm install`
 
 ### Para rodar
 
